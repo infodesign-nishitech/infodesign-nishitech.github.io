@@ -1,1 +1,0 @@
-# infodesign-nishitech.github.io

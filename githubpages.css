@@ -11,3 +11,8 @@ h6 {font-size: xx-small}
 
 p {font-size: medium}
 ul li {font-size: medium}
+
+body {
+   margin: 1em;
+   padding: 0;
+}

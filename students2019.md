@@ -15,7 +15,7 @@
 
 
 ---
-##子ども食堂 Xmasパーティーイベントにボランティア参加
+## 子ども食堂 Xmasパーティーイベントにボランティア参加
 ![](https://www3.nishitech.ac.jp/app/webroot/files/uploads/1_880.jpg)
 
 [続きを読む](https://www3.nishitech.ac.jp/news/archives/880/)
@@ -82,11 +82,11 @@
 ## SPD隊が、小倉北署と共同で啓発ポスターを制作
 ![](http://www3.nishitech.ac.jp/app/webroot/files/uploads/2_772.jpg)
 
-[詳細](http://www3.nishitech.ac.jp/news/archives/772/)
+[続きを読む](http://www3.nishitech.ac.jp/news/archives/772/)
 
 
 ---
 ## 「みんなでつくるFusion 360 スクールコンテスト」で3名入選
 ![](http://www3.nishitech.ac.jp/app/webroot/files/uploads/1_771.jpg)
 
-[詳細](http://www3.nishitech.ac.jp/news/archives/771/)
+[続きを読む](http://www3.nishitech.ac.jp/news/archives/771/)

@@ -19,3 +19,13 @@
 - [宝珠山 徹](http://www3.nishitech.ac.jp/education/teachers/hoshu)
 - [領木 信雄](http://www3.nishitech.ac.jp/education/teachers/ryoki)
 
+## リンク
+- [情報デザイン学科](http://www3.nishitech.ac.jp/examination/courses/design/page2)
+- [小倉キャンパス](http://www3.nishitech.ac.jp/examination/life/kokuracp)
+- [Nishinippon Institute of Technology Design Institute  Riverwalk Kitakyusku 2](https://www.michaelgraves.com/projects/design-school/)
+- [アドミッションポリシー・カリキュラムポリシー・ディプロマポリシー](http://www3.nishitech.ac.jp/examination/nyusi/policy#LinkE)
+- [卒業生インタビュー](http://www3.nishitech.ac.jp/examination/kouken/graduatevoice/graduatevoice_design2)
+- [令和3年度 情報デザイン学科 科目関連図 (PDF)](http://www3.nishitech.ac.jp/app/webroot/files/uploads/6_1045_2021.pdf)
+- [学生便覧 (PDF)](https://www3.nishitech.ac.jp/app/webroot/files/uploads/binran2021.pdf)
+- [学生生活のしおり (PDF)](https://www3.nishitech.ac.jp/app/webroot/files/uploads/shiori2021.pdf)
+- [入学者選抜試験要項](http://www3.nishitech.ac.jp/examination/nyusi/point/)
